@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.4",
+    "random": "^3.0.2",
+    "readline-sync": "^1.4.10",
+    "simple-git": "^3.21.0"
+  }
+}
